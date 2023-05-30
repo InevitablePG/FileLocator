@@ -7,7 +7,7 @@ File Locator is a simple tool that allows you to locate any file from any local 
 1. Clone the repository:
 
    ```
-   git clone https://github.com/YourUsername/FileLocator.git
+   git clone https://github.com/InevitablePG/FileLocator.git
    ```
 
 2. Navigate to the project directory:
