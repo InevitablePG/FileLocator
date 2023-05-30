@@ -43,7 +43,7 @@ from FileLocator import FileSearch
 file_search = FileSearch("filename.txt")
 
 # Perform a basic search in the current working directory
-result = file_search.Search(advanced=False) # Tick for advanced search
+results = file_search.Search(advanced=False) # Tick for advanced search
 
 # Perform an advanced search in a specific root directory
 results = file_search.Search(advanced=True)
