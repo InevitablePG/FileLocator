@@ -1,0 +1,55 @@
+h1 {
+  text-align: center;
+}
+
+.container {
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.form-group input[type="text"]{
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.form-group input[type="checkbox"] {
+    align-self: flex-start;
+}
+
+.form-group .error-message {
+    color: red;
+    margin-top: 5px;
+}
+
+.result {
+    margin-top: 20px;
+    max-height: 200px;
+    overflow-y: auto;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+.result h2 {
+    margin-top: 0;
+}
+
+.result ul {
+    padding-left: 20px;
+    margin: 0;
+}
