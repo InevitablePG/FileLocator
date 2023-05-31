@@ -37,7 +37,7 @@ File Locator is a simple tool that allows you to locate any file from any local 
 The `FileSearch` class in `FileLocator.py` provides the main functionality of the tool. Here's a basic usage example:
 
 ```python
-from FileLocator import FileSearch
+from Locator.FileLocator import FileSearch
 
 # Create an instance of FileSearch
 file_search = FileSearch("filename.txt")
