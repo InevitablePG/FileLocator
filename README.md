@@ -73,6 +73,4 @@ For a complete usage example, refer to the `main.py` file in the repository.
 
 The project structure follows a typical Flask application structure. The `Locator` directory contains the main logic of the file search, while `static` and `templates` directories hold static files and HTML templates, respectively. The `main.py` file serves as the entry point for the Flask application.
 
-## Owner
 
-This project is maintained by [@InevitablePG](https://github.com/InevitablePG). Feel free to reach out if you have any questions or suggestions.
